@@ -1,6 +1,8 @@
 # PDF智能处理系统
 
 一个强大的Python Web应用程序，可以从PDF中提取内容，使用DeepSeek AI进行优化，并导出为多种格式。
+<img width="1279" height="874" alt="image" src="https://github.com/user-attachments/assets/f9f226ff-8705-4aaf-b771-913479b035f1" />
+
 
 ## 功能特点
 
